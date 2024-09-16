@@ -15,7 +15,6 @@
 //Pusht den gemergeten branch
 //Stelle über github einen PullRequest und merged diesen.
 
-public class FeatureA{
 
 public class FeatureA {
     public static void main(String[] args) {
